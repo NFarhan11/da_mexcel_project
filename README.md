@@ -23,3 +23,6 @@ Create a report with visualization that can helps stackholders able to comprehen
 * emphasize the main highlight that was requested in the email.
 * Do some visualization such as bar graph and doughnut chart.
 * Rewrite the keynotes for further details from observation during analysis.
+
+
+![](visualization.PNG)
